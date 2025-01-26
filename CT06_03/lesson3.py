@@ -28,4 +28,4 @@
 variableA=5
 variableB=9
 variableC=14
-variableC=V
+variableC=variableA+variable

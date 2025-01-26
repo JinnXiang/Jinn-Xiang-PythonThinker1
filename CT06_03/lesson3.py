@@ -9,4 +9,4 @@
 
 
 Age=10
-Print
+Print(Age)

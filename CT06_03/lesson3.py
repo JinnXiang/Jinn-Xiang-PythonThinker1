@@ -9,7 +9,7 @@
 
 
 Age=10
-Print(Age)
+print(Age)
 
 x=10
 x=20

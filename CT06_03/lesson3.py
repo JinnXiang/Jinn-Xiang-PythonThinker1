@@ -11,3 +11,4 @@
 Age=10
 Print(Age)
 
+x=10

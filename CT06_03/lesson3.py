@@ -21,6 +21,6 @@ division=variable1/variable2
 differences=variable1-variable2
 sum=variable1+variable2
 print(product)
-print(product)
-print(differces)
+print(divisiont)
+print(differences)
 print(sum)

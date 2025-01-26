@@ -27,3 +27,4 @@
 
 variable1=100
 variable2=4
+variable3=

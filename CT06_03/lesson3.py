@@ -18,4 +18,3 @@
 # variable2=5
 # ans=variable1+variable2
 # print(ans)
-

@@ -8,8 +8,8 @@
 #Print out the number in the end
 
 
-Age=10
-print(Age)
+age=10
+print(age)
 
 x=10
 x=20

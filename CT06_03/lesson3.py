@@ -16,6 +16,7 @@
 
 variable1=3
 variable2=5
-product
+product=x
+di
 ans=variable1+variable2
 print(ans)

@@ -25,7 +25,7 @@
 # print(differences)
 # print(sum)
 
-variableA=6000000000
+variableA=7
 variableB=54
 variableC=variableA+variableB
-print(vari)
+print(variableC)

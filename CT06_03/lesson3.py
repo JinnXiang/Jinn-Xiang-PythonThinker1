@@ -18,7 +18,7 @@ variable1=3
 variable2=5
 product=variable1*variable2
 division=variable1/variable2
-differences=variable1-variable2
+differences=variable2-variable1
 sum=variable1+variable2
 print(product)
 print(division)

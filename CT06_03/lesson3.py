@@ -25,4 +25,4 @@
 # print(differences)
 # print(sum)
 
-variableA
+variableA=5

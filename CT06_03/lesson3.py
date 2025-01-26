@@ -22,5 +22,5 @@ differences=variable1-variable2
 sum=variable1+variable2
 print(product)
 print(product)
-print(product)
+print(differces)
 print(sum)

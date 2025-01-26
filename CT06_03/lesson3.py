@@ -28,5 +28,5 @@
 variable1=10
 variable2=50
 variable3=3
-variable2-variable1*variable3=variable4
+variablevariable2-variable1*variable3
 print(variable4)

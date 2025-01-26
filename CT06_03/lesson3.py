@@ -8,4 +8,5 @@
 #Print out the number in the end
 
 
-Age=
+Age=10
+Print

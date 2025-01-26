@@ -15,4 +15,5 @@ x=10
 print(x)
 
 variable1=3
-variable
+variable2=5
+variable 

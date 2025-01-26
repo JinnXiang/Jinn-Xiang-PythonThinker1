@@ -16,5 +16,5 @@ print(x)
 
 variable1=3
 variable2=5
-variable1+variable2=ans
+ans=variable1+variable2
 print(ans)

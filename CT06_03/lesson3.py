@@ -8,11 +8,11 @@
 #Print out the number in the end
 
 
-age=10
-print(age)
+# age=10
+# print(age)
 
-x=10
-print(x)
+# x=10
+# print(x)
 
 variable1=3
 variable2=5

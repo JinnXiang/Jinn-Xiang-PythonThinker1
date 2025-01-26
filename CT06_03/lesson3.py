@@ -25,6 +25,6 @@
 # print(differences)
 # print(sum)
 
-variableA=653644385346348324724802039
-variableB=54723884488636483359626565482
+variableA=6
+variableB=54
 variableC=variableA+variableB

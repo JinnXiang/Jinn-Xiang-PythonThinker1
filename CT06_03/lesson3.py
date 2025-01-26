@@ -8,7 +8,7 @@
 #Print out the number in the end
 
 
-age=10.989898989898989898
+age=10
 print(age)
 
 "x"=10

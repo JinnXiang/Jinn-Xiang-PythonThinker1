@@ -28,4 +28,4 @@
 variable1=10
 variable2=50
 variable3=3
-variable2-
+variable2-variable1*vari

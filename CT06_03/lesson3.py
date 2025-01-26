@@ -28,5 +28,6 @@
 variable1=10
 variable2=50
 subtract=variable2-variable1
+multip
 variable4=variable2-variable1*variable3
 print(variable4)

@@ -26,3 +26,4 @@
 # print(sum)
 
 variableA=5
+variableB=9

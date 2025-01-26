@@ -25,3 +25,4 @@
 # print(differences)
 # print(sum)
 
+variable1=100

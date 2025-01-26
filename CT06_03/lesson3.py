@@ -20,4 +20,5 @@ product=variable1*variable2
 division=variable1/variable2
 differences=variable1-variable2
 sum=variable1+variable2
-print()
+print(product)
+print

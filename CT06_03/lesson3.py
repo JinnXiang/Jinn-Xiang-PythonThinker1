@@ -28,4 +28,4 @@
 variableA=6000000000
 variableB=54
 variableC=variableA+variableB
-prib
+print(vari)

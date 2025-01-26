@@ -25,4 +25,3 @@
 # print(differences)
 # print(sum)
 
-# 

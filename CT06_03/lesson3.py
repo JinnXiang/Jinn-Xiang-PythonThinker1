@@ -26,3 +26,4 @@
 # print(sum)
 
 variable1=100
+variable2=4

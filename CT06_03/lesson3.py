@@ -36,3 +36,4 @@ c=5
 d=10
 e=2
 ans=(a+b)*c-(d/e)
+print(ans)

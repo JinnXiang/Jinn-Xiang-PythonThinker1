@@ -25,7 +25,8 @@
 # print(differences)
 # print(sum)
 
-variable1=100
-variable2=4
-ans=variable1/variable2
-print(ans)
+# variable1=100
+# variable2=4
+# ans=variable1/variable2
+# print(ans)
+

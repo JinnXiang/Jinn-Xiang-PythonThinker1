@@ -25,7 +25,7 @@
 # print(differences)
 # print(sum)
 
-variableA=7
-variableB=54
+variableA=75436563656832523658365873
+variableB=54122479328097492947
 variableC=variableA+variableB
 print(variableC)

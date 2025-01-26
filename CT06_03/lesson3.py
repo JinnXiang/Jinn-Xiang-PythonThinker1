@@ -17,7 +17,7 @@
 variable1=3
 variable2=5
 product=variable1*variable2
-division=variable1*variable2
+division=variable1/variable2
 differences=variable1-variable2
 ans=variable1+variable2
 print(ans)

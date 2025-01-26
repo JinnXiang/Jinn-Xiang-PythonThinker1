@@ -14,7 +14,7 @@
 # x=10
 # print(x)
 
-# variable1=3
-# variable2=5
-# ans=variable1+variable2
-# print(ans)
+variable1=3
+variable2=5
+ans=variable1+variable2
+print(ans)

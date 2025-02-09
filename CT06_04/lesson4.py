@@ -8,4 +8,4 @@ green_plate = 3
 red_plate_num = 3
 blue_plate_num = 5
 green_plate_num = 4
-total_price = ()
+total_price = (red_plate)

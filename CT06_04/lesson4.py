@@ -8,4 +8,4 @@
 
 
 
-age=input
+age=input("what is ")

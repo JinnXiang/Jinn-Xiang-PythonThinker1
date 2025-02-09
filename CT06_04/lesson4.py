@@ -5,4 +5,4 @@ red_plate = 1
 blue_plate = 2
 green_plate = 3
 
-red-plate-num = 3
+red_plate_num = 3

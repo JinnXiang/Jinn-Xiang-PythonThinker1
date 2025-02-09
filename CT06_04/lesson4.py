@@ -9,3 +9,4 @@ red_plate_num = 3
 blue_plate_num = 5
 green_plate_num = 4
 total_price = (red_plate*red_plate_num)+(blue_plate*blue_plate_num)+(green_plate*green_plate_num)
+print 

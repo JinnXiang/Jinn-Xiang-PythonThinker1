@@ -9,4 +9,5 @@
 
 
 age=input("what is your age")
-age=inte
+age=intage+ 1
+print (age)

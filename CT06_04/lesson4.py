@@ -1,2 +1,2 @@
 name=input("what is your name?")
-colour=input("")
+colour=input("what is your favouri")

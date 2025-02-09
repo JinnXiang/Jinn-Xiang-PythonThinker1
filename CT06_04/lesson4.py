@@ -1,4 +1,4 @@
 print("Hello from lesson 4")
 
 
-red_palte
+red_plate =1

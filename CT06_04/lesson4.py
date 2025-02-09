@@ -6,4 +6,5 @@ blue_plate = 2
 green_plate = 3
 
 red_plate_num = 3
-blue_plate_num
+blue_plate_num = 5
+green_

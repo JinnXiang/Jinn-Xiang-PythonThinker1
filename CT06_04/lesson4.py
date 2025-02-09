@@ -9,5 +9,5 @@
 
 
 age=input("what is your age")
-age=int(age) + 110
+age=int(age) + 1
 print (age)

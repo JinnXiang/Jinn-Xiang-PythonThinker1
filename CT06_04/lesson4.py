@@ -8,3 +8,4 @@
 
 
 
+age=input

@@ -3,4 +3,5 @@ print("Hello from lesson 4")
 
 red_plate = 1
 blue_plate = 2
-green
+green_plate = 3
+

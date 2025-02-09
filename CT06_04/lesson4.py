@@ -9,3 +9,4 @@
 
 
 age=input("what is your age")
+age=inte

@@ -22,3 +22,4 @@ for h in range (10,0,-1):
     print(h)
 
 w=input("Choose a random word")
+n=input("")

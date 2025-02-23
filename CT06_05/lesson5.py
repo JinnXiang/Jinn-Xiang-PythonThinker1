@@ -47,5 +47,3 @@
 # else:
 #      for num in range(start,stop-1,-1):
 #           print(num)
-
-num=int(0)

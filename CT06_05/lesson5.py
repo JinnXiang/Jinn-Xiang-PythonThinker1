@@ -41,3 +41,5 @@
 
 start=input("what is your starting number?")
 stop=input("What is your stopping number?")
+for num in range(start,stop,1):
+    print(num)

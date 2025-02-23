@@ -21,5 +21,5 @@ for k in range (3,20,2):
 for h in range (10,0,-1):
     print(h)
 
-word=input("tell me a word")
+word=input("tell me a word and a number")
 num=input("tell me a number")

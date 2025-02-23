@@ -40,6 +40,6 @@
 # print("Boo!")
 
 start=input("what is your starting number?")
-stop=input("What is your ending number?")
+stop=int(input("What is your ending number?"))
 for num in range(start,stop,1):
     print(num)

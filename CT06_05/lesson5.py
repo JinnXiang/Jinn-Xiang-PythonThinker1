@@ -42,6 +42,6 @@
 start=int(input("what is your starting number?"))
 stop=int(input("What is your ending number?"))
 if (start)<(stop):
-    print("Try ")
+    print("Try again with different numbers")
 for num in range(start,stop,1):
     print(num)

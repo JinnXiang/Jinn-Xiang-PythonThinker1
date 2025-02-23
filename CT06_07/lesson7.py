@@ -16,4 +16,4 @@ for i in range (1,11,1):
     print (i)
 
 for k in range (3,20,2):
-    print(i)
+    print(k)

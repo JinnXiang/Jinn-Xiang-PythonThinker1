@@ -39,4 +39,4 @@
 #      print(f)
 # print("Boo!")
 
-start=input("")
+start=input("what is your starting number?")

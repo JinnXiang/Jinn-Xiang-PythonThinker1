@@ -1,13 +1,13 @@
 # print("Hello from lesson 6")
 
-for i in range(3):
-    print("Hello, World!")
+# for i in range(3):
+#     print("Hello, World!")
 
-for k in range(5):
-    print(i)
+# for k in range(5):
+#     print(i)
 
-print("Hello, World!")
+# print("Hello, World!")
 
-f = 5
+# f = 5
 
-print("Hello, World!")
+# print("Hello, World!")

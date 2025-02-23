@@ -41,3 +41,5 @@
 # end = 5
 # for i in range(end):
 #     print(i)
+
+print("Repeat * 3)

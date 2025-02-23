@@ -23,7 +23,7 @@
 
 # print("Hello, World!")
 
-age = "25"
+age = 25
 print(age + 1)
 
 number = 10
@@ -37,7 +37,6 @@ print("The year is " + year)
 x = "10"
 y = x / 2
 
-**Task 3f**:
 end = "5"
 for i in range(end):
     print(i)

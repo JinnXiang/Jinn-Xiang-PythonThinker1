@@ -45,5 +45,5 @@ if (start)<(stop):
      for num in range(start,stop,1):
           print(num)
 else:
-     for num in range(start,stop,1):
+     for num in range(start,stop,-1):
           print(num)

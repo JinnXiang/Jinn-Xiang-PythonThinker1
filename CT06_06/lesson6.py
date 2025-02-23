@@ -12,7 +12,7 @@
 
 # print("Hello, World!")
 
-
+age=11
 print(age)
 
 name = ("Alice")

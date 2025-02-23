@@ -23,21 +23,21 @@
 
 # print("Hello, World!")
 
-age = 25
-print(age + 1)
+# age = 25
+# print(age + 1)
 
-number = 10
-print(number - 5)
+# number = 10
+# print(number - 5)
 
-Repeat=5
-print(Repeat * 3)
+# Repeat=5
+# print(Repeat * 3)
 
-year = 2023
-print("The year is " + str(year))
+# year = 2023
+# print("The year is " + str(year))
 
-x = 10
-y = x / 2
+# x = 10
+# y = x / 2
 
-end = 5
-for i in range(end):
-    print(i)
+# end = 5
+# for i in range(end):
+#     print(i)

@@ -31,11 +31,11 @@
 # for k in range(5,0,-1):
 #     print(k)
 
-print("Ready!")
-for number in range(3,0,-1):
-     print(number)
+# print("Ready!")
+# for number in range(3,0,-1):
+#      print(number)
 
-for f in range(10,0,-1):
-     print(f)
-print("Boo!")
+# for f in range(10,0,-1):
+#      print(f)
+# print("Boo!")
 

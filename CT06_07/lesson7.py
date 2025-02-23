@@ -24,4 +24,4 @@ for h in range (10,0,-1):
 w=input("Choose a random word:")
 n=input("Choose a random number:")
 for j in range (n):
-    print
+    print(w)

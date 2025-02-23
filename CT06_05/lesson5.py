@@ -40,4 +40,4 @@
 # print("Boo!")
 
 start=input("what is your starting number?")
-stop=input
+stop=input("What is ")

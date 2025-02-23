@@ -42,4 +42,4 @@
 # for i in range(end):
 #     print(i)
 
-print("Repeat * 3)
+print("Repeat" * 3)

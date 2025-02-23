@@ -42,4 +42,4 @@
 # for i in range(end):
 #     print(i)
 
-print("hello " * 10000000)
+print("hello, crazy baby " * 10000000)

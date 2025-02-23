@@ -12,13 +12,13 @@
 
 # print("Hello, World!")
 
-age=11
-print(age)
+# age=11
+# print(age)
 
-name = ("Alice")
-print(name)
+# name = ("Alice")
+# print(name)
 
-x=5
-print(x)
+# x=5
+# print(x)
 
-print("Hello, World!")
+# print("Hello, World!")

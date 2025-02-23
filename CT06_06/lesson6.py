@@ -21,4 +21,4 @@ print(name)
 x=5
 print(x)
 
-pint("Hello, World!")
+print("Hello, World!")

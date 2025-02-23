@@ -42,7 +42,7 @@
 start=int(input("what is your starting number?"))
 stop=int(input("What is your ending number?"))
 if (start)<(stop):
-     for num in range(start,stop,+1,1):
+     for num in range(start,stop,1):
           print(num)
 else:
      for num in range(start,stop,-1,-1):

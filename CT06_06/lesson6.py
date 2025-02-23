@@ -42,4 +42,4 @@
 # for i in range(end):
 #     print(i)
 
-print("hello, girly girl aka Jinn Yang " * 100000000)
+print("hello, girly girl aka Jinn Yang " * 100)

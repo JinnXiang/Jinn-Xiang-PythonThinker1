@@ -22,4 +22,4 @@ for h in range (10,0,-1):
     print(h)
 
 n=input("tell me a word and a number")
-print
+print (n)

@@ -12,16 +12,16 @@
 
 # print("Average score for " + student_name + " is " + str(average_score))
 
-for i in range (1,11,1):
-    print (i)
+# for i in range (1,11,1):
+#     print (i)
 
-for k in range (3,20,2):
-    print(k)
+# for k in range (3,20,2):
+#     print(k)
 
-for h in range (10,0,-1):
-    print(h)
+# for h in range (10,0,-1):
+#     print(h)
 
-w=input("Choose a random word:")
-n=int(input("Choose a random number:"))
-for j in range (n):
-    print(w)
+# w=input("Choose a random word:")
+# n=int(input("Choose a random number:"))
+# for j in range (n):
+#     print(w)

@@ -47,3 +47,7 @@
 #     print("Nice to meet you, "+ n)
 
 num1=input("Tell me a number")
+num1=input("Tell me a number")
+num1=input("Tell me a number")
+num1=input("Tell me a number")
+num1=input("Tell me a number")

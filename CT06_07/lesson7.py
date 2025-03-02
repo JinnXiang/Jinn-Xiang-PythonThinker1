@@ -46,5 +46,6 @@
 # for word in range(g):
 #     print("Nice to meet you, "+ n)
 
-
+for n in range(1,6):
+    input("")
 print("The sum of the numbers you picked is "+str(total))

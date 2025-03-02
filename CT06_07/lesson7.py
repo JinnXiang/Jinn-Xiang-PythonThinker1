@@ -51,7 +51,6 @@
 #     total=total+int(input("What is number #"+ str(n) +"?"))
 # print("The sum of the numbers you picked is "+str(total))
 
-# num=0
 # num=int(input("pick a number"))
 # for h in range (1,13):
 #     print(str(num)+"x"+str(h)+"="+str(num*h))

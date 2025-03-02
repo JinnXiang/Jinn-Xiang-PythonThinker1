@@ -37,4 +37,4 @@
 #     print(j)
 
 n=input("tell me a number")
-g
+g=input("tell me a word")

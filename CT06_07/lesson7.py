@@ -41,4 +41,4 @@
 # for word in range(n):
 #     print(g)
 
-n=input
+n=input("what is your name?")

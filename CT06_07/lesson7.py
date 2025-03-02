@@ -42,3 +42,4 @@
 #     print(g)
 
 n=input("what is your name?")
+g=input

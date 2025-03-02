@@ -46,6 +46,7 @@
 # for word in range(g):
 #     print("Nice to meet you, "+ n)
 
+total=0
 for n in range(1,6):
     input("What is number #"+ n +"?")
     total=total + n

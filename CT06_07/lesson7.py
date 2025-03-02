@@ -58,4 +58,4 @@
 
 num=int(input("pick a number"))
 for h in range(1,6):
-    print("num")
+    print("num"*5)

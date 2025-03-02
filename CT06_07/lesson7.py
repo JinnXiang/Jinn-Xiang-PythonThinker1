@@ -52,3 +52,5 @@
 # print("The sum of the numbers you picked is "+str(total))
 
 num=int(input("pick a number"))
+for h in range (1,13):
+    print

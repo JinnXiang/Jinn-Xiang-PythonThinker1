@@ -25,3 +25,7 @@
 # n=int(input("Choose a random number:"))
 # for j in range (n):
 #     print(w)
+
+
+for n in range (1,11,1):
+    print

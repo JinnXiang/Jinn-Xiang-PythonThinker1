@@ -46,3 +46,4 @@
 # for word in range(g):
 #     print("Nice to meet you, "+ n)
 
+num1=input

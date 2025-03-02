@@ -39,4 +39,4 @@
 n=int(input("tell me a number"))
 g=input("tell me a word")
 for word in range(g):
-    print
+    print(g)

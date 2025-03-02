@@ -56,3 +56,4 @@
 # for h in range (1,13):
 #     print(str(num)+"x"+str(h)+"="+str(num*h))
 
+num=int

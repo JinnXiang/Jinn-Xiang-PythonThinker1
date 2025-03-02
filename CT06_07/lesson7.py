@@ -41,3 +41,4 @@
 # for word in range(n):
 #     print(g)
 
+n=input

@@ -53,4 +53,4 @@
 
 num=int(input("pick a number"))
 for h in range (1,13):
-    print
+    print(h)

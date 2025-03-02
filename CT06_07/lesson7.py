@@ -54,4 +54,4 @@
 num=0
 num=int(input("pick a number"))
 for h in range (1,13):
-    print(str(num)+"x"+str(n)+"="+str(num*h))
+    print(str(num)+"x"+str(h)+"="+str(num*h))

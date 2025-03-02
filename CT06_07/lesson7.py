@@ -47,5 +47,5 @@
 #     print("Nice to meet you, "+ n)
 
 for n in range(1,6):
-    input("What is number #"+n+"?")
+    input("What is number #" +"?")
 print("The sum of the numbers you picked is "+str(total))

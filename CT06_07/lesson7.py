@@ -46,10 +46,5 @@
 # for word in range(g):
 #     print("Nice to meet you, "+ n)
 
-num1=input("Tell me a number")
-num2=input("Tell me a number")
-num3=input("Tell me a number")
-num4=input("Tell me a number")
-num5=input("Tell me a number")
-total=int(num1)+int(num2)+int(num3)+int(num4)+int(num5)
+
 print("The sum of the numbers you picked is "+str(total))

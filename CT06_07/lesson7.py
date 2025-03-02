@@ -43,4 +43,5 @@
 
 n=input("what is your name?")
 g=input("state a random number")
-print
+for word in range(g):
+    print

@@ -36,5 +36,5 @@
 # for j in range (10,0,-1):
 #     print(j)
 
-n=input("tell me a number")
+n=int(input("tell me a number"))
 g=input("tell me a word")

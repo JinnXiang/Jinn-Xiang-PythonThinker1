@@ -57,5 +57,5 @@
 #     print(str(num)+"x"+str(h)+"="+str(num*h))
 
 num=int(input("pick a number"))
-for h in range(1,num):
+for h in range(1,num+1):
     print(str(h)*h)

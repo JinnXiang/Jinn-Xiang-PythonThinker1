@@ -48,5 +48,5 @@
 
 for n in range(1,6):
     input("What is number #"+ n +"?")
-    total=total +n
+    total=total + n
 print("The sum of the numbers you picked is "+str(total))

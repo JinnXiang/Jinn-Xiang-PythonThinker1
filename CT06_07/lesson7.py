@@ -30,4 +30,5 @@
 for n in range (1,11,1):
     print(n)
 
-for h in range (2,22,2)
+for h in range (2,22,2):
+    print(h)

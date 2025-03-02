@@ -58,4 +58,4 @@
 
 num=int(input("pick a number"))
 for h in range(1,num+1):
- print(str(h)*h)
+    print(str(h)*h)

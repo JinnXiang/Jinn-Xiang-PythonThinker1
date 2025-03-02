@@ -51,4 +51,4 @@
 #     total=total+int(input("What is number #"+ str(n) +"?"))
 # print("The sum of the numbers you picked is "+str(total))
 
-num=input("pick a")
+num=input("pick a number")

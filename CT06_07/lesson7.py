@@ -48,6 +48,6 @@
 
 total=0
 for n in range(1,6):
-    int(input("What is number #"+ str(n) +"?"))
+    total=total+int(input("What is number #"+ str(n) +"?"))
     total=total + n
 print("The sum of the numbers you picked is "+str(total))

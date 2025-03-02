@@ -47,7 +47,7 @@
 #     print("Nice to meet you, "+ n)
 
 num1=input("Tell me a number")
-num2=nput("Tell me a number")
+num2=input("Tell me a number")
 num3=input("Tell me a number")
 num4=input("Tell me a number")
 num5=input("Tell me a number")

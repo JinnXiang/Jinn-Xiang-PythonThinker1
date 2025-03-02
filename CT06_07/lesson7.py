@@ -42,4 +42,5 @@
 #     print(g)
 
 n=input("what is your name?")
-g=input
+g=input("state a random number")
+print

@@ -38,5 +38,5 @@
 
 n=int(input("tell me a number"))
 g=input("tell me a word")
-for word in range(g):
+for word in range(n):
     print(g)

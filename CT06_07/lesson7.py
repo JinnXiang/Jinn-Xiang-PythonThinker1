@@ -27,11 +27,11 @@
 #     print(w)
 
 
-for n in range (1,11,1):
-    print(n)
+# for n in range (1,11,1):
+#     print(n)
 
-for h in range (2,22,2):
-    print(h)
+# for h in range (2,22,2):
+#     print(h)
 
-for j in range (10,0,-1):
-    print(j)
+# for j in range (10,0,-1):
+#     print(j)

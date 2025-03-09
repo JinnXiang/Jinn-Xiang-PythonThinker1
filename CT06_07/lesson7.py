@@ -46,6 +46,11 @@
 # for word in range(g):
 #     print("Nice to meet you, "+ n)
 
+# n=input("what is your name?")
+# g=int(input("state a random number"))
+# for word in range(g):
+#     print("Nice to meet you, "+ n)
+
 # total=0
 # for n in range(1,6):
 #     total=total+int(input("What is number #"+ str(n) +"?"))

@@ -30,7 +30,7 @@
 # for n in range (1,11,1):
 #     print(n)
 
-for h in range (2,22):
+for h in range (1,10):
     print(h)
 
 # for j in range (10,0,-1):

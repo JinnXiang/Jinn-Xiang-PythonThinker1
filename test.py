@@ -4,5 +4,5 @@
 start=int(input("what is the start number?"))#find the start number
 end=int(input("what is the end number?"))#find the end number
 increment=int(input("what is the increment?"))#find the increment
-for k in range(start,end,increment):
+for k in range(start,end,increment):#do the range f
     print(k)

@@ -7,6 +7,3 @@
 # for k in range(start,end,increment):#do the range function
 #     print(k)#print the answer
 
-name = "DENNIS"
-for letter in range(10):
-	print(letter)

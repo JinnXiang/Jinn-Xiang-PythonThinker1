@@ -46,11 +46,11 @@
 # for word in range(g):
 #     print("Nice to meet you, "+ n)
 
-n=input("what is your name?")
-aaa=input("state a random number")
-g=int(aaa)
-for word in range(g):
-    print("Nice to meet you, "+ n)
+# n=input("what is your name?")
+# aaa=input("state a random number")
+# g=int(aaa)
+# for word in range(g):
+#     print("Nice to meet you, "+ n)
 
 # total=0
 # for n in range(1,6):

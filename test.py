@@ -7,3 +7,6 @@
 # for k in range(start,end,increment):#do the range function
 #     print(k)#print the answer
 
+x = '1'
+b = '1'
+c = x + b

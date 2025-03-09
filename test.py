@@ -2,4 +2,5 @@
 # print("Nice to meet you, "+name)#print out the greeting and the user's name
 
 start=input("what is the start number?")
-end=input()
+end=input("what is the end number?")
+increment=("")

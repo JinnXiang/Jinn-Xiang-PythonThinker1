@@ -66,4 +66,4 @@
 # for h in range(1,num+1):
 #     print(str(h)*h)
 
-for n in range
+number=input()

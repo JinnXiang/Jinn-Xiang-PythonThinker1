@@ -30,8 +30,8 @@
 # for n in range (1,11,1):
 #     print(n)
 
-for h in range (1,10):
-    print(h)
+# for h in range (2,22,2):
+#     print(h)
 
 # for j in range (10,0,-1):
 #     print(j)
@@ -62,6 +62,6 @@ for h in range (1,10):
 # for h in range (1,13):
 #     print(str(num)+"x"+str(h)+"="+str(num*h))
 
-# num=int(input("pick a number"))
-# for h in range(1,num+1):
-#     print(str(h)*h)
+num=int(input("pick a number"))
+for h in range(1,num+1):
+    print(str(h)*h)

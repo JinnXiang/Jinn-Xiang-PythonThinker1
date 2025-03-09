@@ -3,6 +3,6 @@
 
 start=int(input("what is the start number?"))
 end=int(input("what is the end number?"))
-increment=int(input("what is the increment?")
+increment=int(input("what is the increment?"))
 for k in range(start,end,increment):
     print(k)

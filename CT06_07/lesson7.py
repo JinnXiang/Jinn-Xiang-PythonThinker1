@@ -47,7 +47,7 @@
 #     print("Nice to meet you, "+ n)
 
 n=input("what is your name?")
-my
+myInput=input("state a random number")
 g=int()
 for word in range(g):
     print("Nice to meet you, "+ n)

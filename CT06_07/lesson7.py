@@ -68,4 +68,4 @@
 
 number=int(input("tell me a number"))
 for n in range(1,number):
-    print(n*number)
+    print(n*n)

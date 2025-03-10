@@ -46,7 +46,7 @@
 # print (reply == hidden )
 
 import random
-n1=random.randint()
+n1=random.randint(1,50)
 
 
 

@@ -11,7 +11,7 @@
 num=input("Tell me a number")
 import time
 
-for i in range(num,0,-1):
+for i in range(int(num),0,-1):
     print(i)
     time.sleep(1)
 

@@ -48,7 +48,7 @@
 import random
 n1=random.randint(1,50)
 start=input("Whats the starting number")
-end=input("")
+end=input("Whats the end number")
 
 
 

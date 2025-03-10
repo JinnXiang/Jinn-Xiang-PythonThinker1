@@ -39,4 +39,5 @@
 import random
 num1=random.randint(1,50)
 num2=random.randint(1,50)
-question="What is "+str(num1)+"+"+str(num2)+""
+question="What is "+str(num1)+"+"+str(num2)+"?"
+reply

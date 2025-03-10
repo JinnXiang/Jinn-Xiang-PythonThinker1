@@ -26,7 +26,8 @@
 # print(str(num))
 
 raining=True
-
+if raining:
+    print
 
 
 

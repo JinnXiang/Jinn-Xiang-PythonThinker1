@@ -29,7 +29,9 @@ raining=True
 if raining:
     print("raining")
 
-raining
+raining=True
+if raining:
+    print()
 
 
 

@@ -17,13 +17,13 @@
 
 # print("Go!")
 
-import random
-num=random.randint(1,6)
-print(num)
+# import random
+# num=random.randint(1,6)
+# print(num)
 
 import random
 num=random.randint(0,9999)
-print
+print(num)
 
 
 

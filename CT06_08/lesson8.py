@@ -36,11 +36,12 @@
 # else:
 #     print("sunny")
 
-import random
-num1 = random.randint (1,50)
-num2 = random.randint (1,50)
-question= "What is " + str(num1) + "+" + str(num2) + "?"
-reply = input (question)
-reply= int (reply)
-hidden + num1 + num2
-print (reply = hidden )
+# import random
+# num1 = random.randint (1,50)
+# num2 = random.randint (1,50)
+# question= "What is " + str(num1) + "+" + str(num2) + "?"
+# reply = input (question)
+# reply= int (reply)
+# hidden + num1 + num2
+# print (reply = hidden )
+

@@ -4,9 +4,3 @@
 #     num=input("Tell me a number")
 # print(int(num)*5)
 
-result = 1
-
-for i in range(5):
-    num = float(input(f"Enter number {i+1}: ")) 
-    result *= num
-print(f+"The multiplication of the entered numbers is: {result}")

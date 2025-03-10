@@ -45,6 +45,7 @@
 # hidden + num1 + num2
 # print (reply == hidden )
 
+import random
 
 
 

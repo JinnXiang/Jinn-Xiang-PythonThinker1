@@ -45,10 +45,11 @@
 # hidden + num1 + num2
 # print (reply == hidden )
 
-import random
-n1=random.randint(1,50)
+
 start=input("Whats the starting number")
 end=input("Whats the end number")
+import random
+n1=random.randint(1,50)
 
 
 

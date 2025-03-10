@@ -37,4 +37,4 @@
 #     print("sunny")
 
 import random
-num1=random.randint
+num1=random.randint(1,50)

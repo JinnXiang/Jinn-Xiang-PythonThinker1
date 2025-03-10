@@ -19,6 +19,7 @@
 
 import random
 num=random.random(1,6)
+print
 
 
 

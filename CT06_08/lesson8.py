@@ -2,4 +2,4 @@
 
 for h in range(5):
     num=input("Tell me a number")
-print(num*5)
+print(int(num)*5)

@@ -27,7 +27,7 @@
 
 raining=True
 if raining:
-    print
+    print("")
 
 
 

@@ -47,7 +47,7 @@
 
 import random
 n1=random.randint(1,50)
-num1=in
+num1=input("")
 
 
 

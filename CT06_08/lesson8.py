@@ -29,8 +29,8 @@
 # if raining:
 #     print("raining")
 
-raining=True
-sunny=True
+raining=True/
+sunny=True/False
 if sunny:
     print("sunny")
 else:

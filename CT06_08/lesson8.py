@@ -22,7 +22,7 @@
 # print(num)
 
 import random
-num=random.randint(0,9999)
+num=random.random(0,9999)
 print(str(num)*20)
 
 

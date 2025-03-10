@@ -7,7 +7,6 @@
 
 for i in range(5):
     num = float(input(f"Enter number {i+1}: "))
-    result *= num  # Multiply the result by the entered number
+    result *= num 
 
-# Print the final multiplication result
 print(f"The multiplication of the entered numbers is: {result}")

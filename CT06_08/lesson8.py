@@ -43,8 +43,7 @@
 # reply = input (question)
 # reply= int (reply)
 # hidden + num1 + num2
-# print (reply ==
-#  hidden )
+# print (reply == hidden )
 
 
 

@@ -49,7 +49,7 @@
 start=input("Whats the starting number")
 end=input("Whats the end number")
 import random
-n1=random.randint(1,50)
+n1=random.randint(start,end)
 
 
 

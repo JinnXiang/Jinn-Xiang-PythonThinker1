@@ -18,7 +18,7 @@
 # print("Go!")
 
 import random
-num=random.random(1,6)
+num=random(1,6)
 print(num)
 
 

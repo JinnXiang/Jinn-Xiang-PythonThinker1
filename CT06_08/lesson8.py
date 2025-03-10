@@ -47,8 +47,8 @@
 
 import random
 n1=random.randint(1,50)
-num1=input("Whats the starting number")
-end
+start=input("Whats the starting number")
+end=input("")
 
 
 

@@ -8,13 +8,13 @@
 
 # print("Go!")
 
-num=input("Tell me a number")
-import time
+# num=input("Tell me a number")
+# import time
 
-for i in range(int(num),0,-1):
-    print(i)
-    time.sleep(1)
+# for i in range(int(num),0,-1):
+#     print(i)
+#     time.sleep(1)
 
-print("Go!")
+# print("Go!")
 
 

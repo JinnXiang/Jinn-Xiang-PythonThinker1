@@ -29,12 +29,12 @@
 # if raining:
 #     print("raining")
 
-raining=True or False
-sunny=True or False
-if raining:
-    print("raining")
-else:
-    print("sunny")
+# raining=True 
+# sunny=True 
+# if raining:
+#     print("raining")
+# else:
+#     print("sunny")
 
 
 

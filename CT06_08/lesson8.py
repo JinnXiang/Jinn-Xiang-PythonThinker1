@@ -1,4 +1,4 @@
 # print("Hello from lesson 8")
 
-for num in range(5):
-    print(input("Tell me a number"))
+for h in range(5):
+    num=input("Tell me a number")

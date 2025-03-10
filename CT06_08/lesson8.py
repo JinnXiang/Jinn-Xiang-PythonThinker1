@@ -34,7 +34,7 @@ sunny=True or False
 if raining:
     print("raining")
 else:
-    print("raining")
+    print("sunny")
 
 
 

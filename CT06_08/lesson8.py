@@ -32,9 +32,9 @@
 raining=True
 sunny=True
 if sunny:
-    print("raining")
-else:
     print("sunny")
+else:
+    print("")
 
 
 

@@ -9,5 +9,4 @@ result = 1
 for i in range(5):
     num = float(input(f"Enter number {i+1}: ")) 
     result *= num
-# Print the final multiplication result
-print(f"The multiplication of the entered numbers is: {result}")
+print(f+"The multiplication of the entered numbers is: {result}")

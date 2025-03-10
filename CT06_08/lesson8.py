@@ -9,7 +9,7 @@
 # print("Go!")
 
 
-print(i)
+
 import time
 
 for i in range(10,0,-1):

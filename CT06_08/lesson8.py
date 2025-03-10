@@ -25,9 +25,9 @@
 # num=random.randint(0,9999)
 # print(str(num))
 
-raining=True
-if raining:
-    print("raining")
+# raining=True
+# if raining:
+#     print("raining")
 
 sunny=True
 raining=True

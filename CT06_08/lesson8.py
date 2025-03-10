@@ -8,7 +8,7 @@
 
 # print("Go!")
 
-num=input()
+num=input("Tell me a number")
 import time
 
 for i in range(num,0,-1):

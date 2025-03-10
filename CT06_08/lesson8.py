@@ -33,7 +33,7 @@ raining=True
 if raining:
     print("raining")
 else:
-    print
+    print("not raining")
 
 
 

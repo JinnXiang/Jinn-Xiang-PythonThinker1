@@ -30,4 +30,5 @@
 px_apple=0.6
 px_orange=0.9
 otal=0
+costApple=0
 cost

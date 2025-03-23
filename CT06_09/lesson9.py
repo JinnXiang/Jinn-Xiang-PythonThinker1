@@ -46,4 +46,4 @@ if numApple > 5:
 if numApple <= 5:
     costApple = costApple + numApple * px_apple
 
-total = cost
+total = costApple + cost

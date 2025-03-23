@@ -17,4 +17,4 @@
 # all_even_odd = num1_even == num2_even == num3_even
 # print("All numbers are even/odd is " + str(all_even_odd))
 
-days=int(input("How many days didyou borrow the book"))
+days=int(input("How many days did you borrow the book"))

@@ -14,3 +14,4 @@ num1_even = num1 % 2 == 0
 num2_even = num2 % 2 == 0
 num3_even = num3 % 2 == 0
 
+all_even_odd + num1

@@ -8,5 +8,5 @@ num3 = random.randint(1,6)
 
 print("1st number: " + num1)
 print("2nd number: " + num2)
-print(num3)
+print("3rd number: " + num3)
 

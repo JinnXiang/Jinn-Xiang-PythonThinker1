@@ -23,4 +23,4 @@ if days > 25:
 
 import random
 num1 = random.randint(1,10)
-guess+(int("guess the number"))
+guess=(int(input("guess the number")))

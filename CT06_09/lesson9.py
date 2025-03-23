@@ -18,3 +18,5 @@
 # print("All numbers are even/odd is " + str(all_even_odd))
 
 days=int(input("How many days did you borrow the book"))
+if days > 25:
+    print

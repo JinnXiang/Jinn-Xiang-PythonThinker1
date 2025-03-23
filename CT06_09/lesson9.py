@@ -32,3 +32,4 @@ px_orange=0.9
 total=0
 costApple=0
 costOrange=0
+numApple

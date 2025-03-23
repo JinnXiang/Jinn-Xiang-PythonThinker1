@@ -33,3 +33,4 @@ total=0
 costApple=0
 costOrange=0
 numApple=int(input("How many apples?"))
+numOrange=int(input)

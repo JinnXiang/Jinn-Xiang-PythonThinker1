@@ -35,7 +35,7 @@ costOrange = 0
 numApple = int (input("How many apples?"))
 numOrange = int (input("How many oranges?"))
 if numOrange > 5:
-    costOrange=costOrange+numOrange*px_orange *0.9
+    costOrange=costOrange + numOrange * px_orange * 0.9
 
 if numOrange <= 5:
     costOrange = costOrange + numOrange * px_orange

@@ -46,5 +46,6 @@ if numApple > 5:
 if numApple <= 5:
     costApple = costApple + numApple * px_apple
 
-total_price = int(numApple) + numOrange
+total_price = int(numApple) + int(numOrange)
+p
 

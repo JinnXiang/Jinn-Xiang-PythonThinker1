@@ -25,4 +25,4 @@ import random
 num1 = random.randint(1,10)
 guess=(int(input("guess the number")))
 if guess == num1:
-    print("Thats the magic number!!!!!!!!!!!!!!!!!!!!!!!!!!!!")
+    print("That's the magic number!!!!!!!!!!!!!!!!!!!!!!!!!!!!")

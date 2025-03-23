@@ -7,6 +7,6 @@ num2 = random.randint(1,6)
 num3 = random.randint(1,6)
 
 print("1st number: " + num1)
-print(num2)
+print("2nd number: " + num2)
 print(num3)
 

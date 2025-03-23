@@ -45,5 +45,5 @@ if numApple > 5:
     costApple=costApple+numApple*px_apple*0.9
 
 if numApple<=5:
-    cpstApple = costApple + numApple*px_apple
+    costApple = costApple + numApple*px_apple
 

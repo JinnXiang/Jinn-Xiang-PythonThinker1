@@ -23,3 +23,4 @@ if days > 25:
 
 import random
 num1 = random.randint(1,10)
+print(int())

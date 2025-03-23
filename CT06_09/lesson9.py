@@ -47,3 +47,4 @@ if numApple <= 5:
     costApple = costApple + numApple * px_apple
 
 total = costApple + costOrange
+print(total)

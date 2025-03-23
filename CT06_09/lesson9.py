@@ -11,3 +11,5 @@ print("2nd number: " + str(num2))
 print("3rd number: " + str(num3))
 
 num1_even = num1 % 2 == 0
+num2_even = num1 % 2 == 0
+num1_even = num1 % 2 == 0

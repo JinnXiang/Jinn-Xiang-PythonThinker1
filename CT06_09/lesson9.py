@@ -17,9 +17,9 @@
 # all_even_odd = num1_even == num2_even == num3_even
 # print("All numbers are even/odd is " + str(all_even_odd))
 
-days=int(input("How many days did you borrow the book:"))
-if days > 25:
-    print("Remember to return your book! ")
+# days=int(input("How many days did you borrow the book:"))
+# if days > 25:
+#     print("Remember to return your book! ")
 
 import random
 num1 = random.randint(1,10)

@@ -38,7 +38,7 @@ if numOrange > 5:
     costOrange=costOrange+numOrange*px_orange*0.9
 
 if numOrange <= 5:
-    costOrange=costOrange+numOrange*px_orange*0.9
+    costOrange=costOrange+numOrange*px_orange
 
 
 if numApple > 5:

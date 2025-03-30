@@ -20,3 +20,4 @@
 #     else:
 #         print("You are an adult")
 
+score=int(input())

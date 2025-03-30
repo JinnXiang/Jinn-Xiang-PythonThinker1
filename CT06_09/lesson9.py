@@ -64,3 +64,4 @@
 #         positive_days += 1
 # print(str(positive_day)
 
+desirable=0

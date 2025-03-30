@@ -59,4 +59,4 @@
 
 positive_days=0
 for i in range(7):
-    temp=int(input("What is"))
+    temp=int(input("What is the temperature for today?"))

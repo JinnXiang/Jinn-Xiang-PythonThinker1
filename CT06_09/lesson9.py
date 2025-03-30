@@ -62,4 +62,6 @@
 #     temp=int(input("What is the temperature for today?"))
 #     if temp > 30:
 #         positive_days += 1
-# print(str(positive_day
+# print(str(positive_day)
+
+for

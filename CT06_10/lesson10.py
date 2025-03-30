@@ -6,7 +6,7 @@ print("Hello from lesson 10")
 # else:
 #     print(str(num) + (" is not positive!"))
 
-
+num
 if num % 2 == 0:
     print("Even")
 else:

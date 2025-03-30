@@ -24,7 +24,7 @@ score=int(input("What is your score?"))
 if score > 89:
     print("Average")
 elif score > 79:
-    print("B")
+    print("Below average")
 elif score > 69:
     print("C")
 elif score > 59:

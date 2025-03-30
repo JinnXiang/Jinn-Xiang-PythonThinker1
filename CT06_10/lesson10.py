@@ -12,4 +12,5 @@ print("Hello from lesson 10")
 # else:
 #     print("Odd")
 
-age=int(input("What si"))
+age=int(input("What is your age?"))
+i

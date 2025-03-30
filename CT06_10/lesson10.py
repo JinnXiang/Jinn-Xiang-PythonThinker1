@@ -4,4 +4,4 @@ num=int(input("Give me a number:"))
 if num>0:
     print(str(num) + ("is positive!"))
 else:
-    print(num + ("is not positive!"))
+    print(str(num) + ("is not positive!"))

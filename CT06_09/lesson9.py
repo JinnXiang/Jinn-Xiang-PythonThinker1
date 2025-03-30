@@ -69,4 +69,4 @@ undesirable=0
 for i in range(10):
     rating=int(input("What is your rating from 1 to 5"))
     if rating>3:
-        
+        desirable+=1

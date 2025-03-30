@@ -23,4 +23,5 @@
 score=int(input("What is your score?"))
 if score > 89:
     print("A")
-e
+elif score > 79:
+    print(B)

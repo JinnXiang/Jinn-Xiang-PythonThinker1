@@ -12,11 +12,11 @@ print("Hello from lesson 10")
 # else:
 #     print("Odd")
 
-age=int(input("What is your age?"))
-if age < 13:
-    print("You are a child")
-else:
-    if age < 20:
-        print("You are a teen")
-    else:
-        print("You are an adult")
+# age=int(input("What is your age?"))
+# if age < 13:
+#     print("You are a child")
+# else:
+#     if age < 20:
+#         print("You are a teen")
+#     else:
+#         print("You are an adult")

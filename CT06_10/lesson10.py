@@ -26,7 +26,7 @@ if score > 89:
 elif score > 79:
     print("Below average")
 elif score > 69:
-    print("Can you kick yu")
+    print("Can you kick youself out the door?")
 elif score > 59:
     print("D")
 else:

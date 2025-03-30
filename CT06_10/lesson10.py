@@ -28,4 +28,6 @@ elif score > 79:
 elif score > 69:
     print("C")
 elif score > 59:
-    print("B")
+    print("D")
+else:
+    print

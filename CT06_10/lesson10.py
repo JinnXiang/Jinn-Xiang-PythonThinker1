@@ -18,4 +18,5 @@ if age < 13:
 else:
     if age < 20:
         print("You are a teen")
-        
+    else:
+        print

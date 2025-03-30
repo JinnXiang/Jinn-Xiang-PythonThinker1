@@ -19,7 +19,4 @@ else:
     if age < 20:
         print("You are a teen")
     else:
-        if age > 20:
-            print("You are an adult")
-        else:
-            print("You are an old grandma")
+        print("Y")

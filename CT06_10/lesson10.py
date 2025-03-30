@@ -6,8 +6,8 @@ print("Hello from lesson 10")
 # else:
 #     print(str(num) + (" is not positive!"))
 
-num = int(input("Tell me a number!"))
-if num % 2 == 0:
-    print("Even")
-else:
-    print("odd")
+# num = int(input("Tell me a number!"))
+# if num % 2 == 0:
+#     print("Even")
+# else:
+#     print("Odd")

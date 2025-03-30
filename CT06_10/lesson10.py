@@ -28,6 +28,6 @@ elif score > 79:
 elif score > 69:
     print("Can you kick youself out the door?")
 elif score > 59:
-    print("Disappear, you don'y")
+    print("Disappear, you don't deserve to live")
 else:
     print("Failure to thrive")

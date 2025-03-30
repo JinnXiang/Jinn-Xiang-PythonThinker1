@@ -11,3 +11,5 @@ print("Hello from lesson 10")
 #     print("Even")
 # else:
 #     print("Odd")
+
+age=int

@@ -20,4 +20,4 @@ else:
         print("You are a teen")
     else:
         if age > 20:
-            print
+            print("")

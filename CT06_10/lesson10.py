@@ -20,4 +20,6 @@
 #     else:
 #         print("You are an adult")
 
-score=int(input())
+score=int(input("What is your score?"))
+if score > 89:
+    print

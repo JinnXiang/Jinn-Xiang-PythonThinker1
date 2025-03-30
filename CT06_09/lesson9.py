@@ -71,4 +71,5 @@ for i in range(10):
     if rating>3:
         desirable+=1
     else:
-        undesirable
+        undesirable+=1
+        

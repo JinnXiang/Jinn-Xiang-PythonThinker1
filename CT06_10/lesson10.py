@@ -14,4 +14,5 @@ print("Hello from lesson 10")
 
 age=int(input("What is your age?"))
 if age > 13:
-    print("Your")
+    print("You are a child")
+    

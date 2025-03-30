@@ -72,4 +72,5 @@ for i in range(10):
         desirable+=1
     else:
         undesirable+=1
+print(str(desirable))
 print

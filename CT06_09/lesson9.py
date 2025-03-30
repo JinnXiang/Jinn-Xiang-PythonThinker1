@@ -65,3 +65,4 @@
 # print(str(positive_day)
 
 desirable=0
+undesirable=0

@@ -74,3 +74,5 @@ for i in range(10):
         undesirable+=1
 print("Desirable:"+str(desirable))
 print("Undesirable:"+str(undesirable))
+
+num

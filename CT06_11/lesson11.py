@@ -30,3 +30,4 @@ else:
     print("You are lucky that you are not wanted")
 
 rider1 = 25
+rider2 = 6

@@ -6,6 +6,6 @@ if px <= 5:
 elif px <= 50:
     print("Just spend more money.")
 elif px <= 500:
-    print("About right")
+    print("About right...Just a li")
 else:
     print("Yes! Perfect!")

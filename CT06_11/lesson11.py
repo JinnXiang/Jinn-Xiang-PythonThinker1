@@ -47,4 +47,4 @@ guess = input("What is the password?")
 if not guess == password:
     print("no access")
 else:
-    print()
+    print("Good guess")

@@ -64,7 +64,7 @@ if enter_username == username and enter_pw == pw:
 elif username == enter_username or pw == enter_pw:
     print("Either 1 is wrong")
 else:
-    print()
+    print("Access denied")
 
 
 # game_status = "active"

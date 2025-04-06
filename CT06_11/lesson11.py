@@ -10,7 +10,7 @@
 # else:
 #     print("Yes! Perfect!")
 
-rider1 = 112
+rider1 = 125
 rider2 = 150
 
 result = rider1 and rider2 > 120

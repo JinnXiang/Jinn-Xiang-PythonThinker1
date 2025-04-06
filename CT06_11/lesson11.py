@@ -22,12 +22,12 @@
 # else:
 #     print("The number is not divisable by 3 and 7!")
 
-first_name = input("What is your first name?")
-last_name = input("What is your first name?")
-if first_name == "James" and last_name == "Leong": 
-    print("You are wanted by the FBI")
-else:
-    print("You are lucky that you are not wanted")
+# first_name = input("What is your first name?")
+# last_name = input("What is your first name?")
+# if first_name == "James" and last_name == "Leong": 
+#     print("You are wanted by the FBI")
+# else:
+#     print("You are lucky that you are not wanted")
 
 rider1 = 25
 rider2 = 6

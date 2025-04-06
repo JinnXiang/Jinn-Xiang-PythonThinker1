@@ -16,3 +16,4 @@
 # result = rider1 > 120 and rider2 > 120
 # print(result)
 
+num = int(input("t"))

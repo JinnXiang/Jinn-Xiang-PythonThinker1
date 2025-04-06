@@ -59,10 +59,13 @@ username = "John123"
 pw = "pw123"
 enter_username = input("What is your username?")
 enter_pw = input("What is your password?")
-if enter_username == "John123" and enter_pw == "pw123":
+if enter_username == username and enter_pw == pw:
     print("Access granted")
 elif username == enter_username or pw == enter_pw:
-    
+    print("Either 1 is wrong")
+else:
+    print()
+
 
 # game_status = "active"
 # if game_status == "active" or not game_status == "paused":

@@ -10,4 +10,4 @@
 # else:
 #     print("Yes! Perfect!")
 
-rider1 = int(input)
+rider1 = int(input("What is your height?"))

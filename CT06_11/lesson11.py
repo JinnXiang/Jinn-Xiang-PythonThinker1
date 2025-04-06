@@ -55,7 +55,8 @@
 # if burger == "yes" and fries == "yes" and not drink == "yes":
 #     print("Won't you get thirsty?")
 
-username = ""
+username = "John123"
+pw
 
 # game_status = "active"
 # if game_status == "active" or not game_status == "paused":

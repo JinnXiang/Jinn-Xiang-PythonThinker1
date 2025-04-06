@@ -16,8 +16,8 @@
 # result = rider1 > 120 and rider2 > 120
 # print(result)
 
-num = int(input("Tell me a number:"))
-if num % 3 == 0 and num % 7 == 0:
-    print("The number is divisable by 3 and 7!")
-else:
-    print("The number is not divisable by 3 and 7!")
+# num = int(input("Tell me a number:"))
+# if num % 3 == 0 and num % 7 == 0:
+#     print("The number is divisable by 3 and 7!")
+# else:
+#     print("The number is not divisable by 3 and 7!")

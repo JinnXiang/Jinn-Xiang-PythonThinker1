@@ -21,3 +21,5 @@
 #     print("The number is divisable by 3 and 7!")
 # else:
 #     print("The number is not divisable by 3 and 7!")
+
+first_

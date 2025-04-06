@@ -27,4 +27,4 @@ last_name = input("What is your first name?")
 if first_name == "James" and last_name == "Leong": 
     print("You are wanted by the FBI")
 else:
-    print("")
+    print("You")

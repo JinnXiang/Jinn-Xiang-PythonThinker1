@@ -18,4 +18,4 @@
 
 num = int(input("Tell me a number:"))
 if num % 3 == 0 and num % 7 == 0:
-    print("The number is")
+    print("The number is divisable by 3 and 7!")

@@ -67,7 +67,7 @@
 #     print("Access denied")
 
 
-# game_status = input
+# game_status = input("What is your game status?")
 # if game_status == "active" or not game_status == "paused":
 #     print("Game in progress")
 # else:

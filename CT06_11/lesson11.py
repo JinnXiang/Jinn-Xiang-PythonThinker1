@@ -56,7 +56,7 @@
 #     print("Won't you get thirsty?")
 
 username = "John123"
-pw
+pw = "pw123"
 
 # game_status = "active"
 # if game_status == "active" or not game_status == "paused":

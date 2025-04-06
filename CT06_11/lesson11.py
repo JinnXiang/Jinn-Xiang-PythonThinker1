@@ -11,3 +11,4 @@
 #     print("Yes! Perfect!")
 
 rider1 = int(input("What is your height?"))
+rider2 = int(input("What is your height?"))

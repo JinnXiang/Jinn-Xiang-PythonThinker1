@@ -29,3 +29,4 @@ if first_name == "James" and last_name == "Leong":
 else:
     print("You are lucky that you are not wanted")
 
+rider1 = 25

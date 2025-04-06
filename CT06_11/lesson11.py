@@ -22,7 +22,7 @@
 # else:
 #     print("The number is not divisable by 3 and 7!")
 
-first_name = str(input("What is your first name?"))
-last_name = str(input("What is your first name?"))
+first_name = input("What is your first name?")
+last_name = input("What is your first name?")
 if first_name == "James" and last_name == "Leong": 
     print("You are wanted by the FBI")

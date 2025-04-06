@@ -28,3 +28,4 @@ if first_name == "James" and last_name == "Leong":
     print("You are wanted by the FBI")
 else:
     print("You are lucky that you are not wanted")
+

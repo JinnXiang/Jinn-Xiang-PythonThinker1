@@ -42,9 +42,9 @@
 # else:
 #     print("$20")
 
-password = "Python123"
-guess = input("What is the password?")
-if not guess == password:
-    print("No access")
-else:
-    print("Good guess")
+# password = "Python123"
+# guess = input("What is the password?")
+# if not guess == password:
+#     print("No access")
+# else:
+#     print("Good guess")

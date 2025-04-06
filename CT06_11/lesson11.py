@@ -10,8 +10,9 @@
 # else:
 #     print("Yes! Perfect!")
 
-rider1 = 125
-rider2 = 150
+# rider1 = 125
+# rider2 = 150
 
-result = rider1 > 120 and rider2 > 120
-print(result)
+# result = rider1 > 120 and rider2 > 120
+# print(result)
+

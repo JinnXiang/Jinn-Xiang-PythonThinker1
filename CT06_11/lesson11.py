@@ -29,9 +29,9 @@
 # else:
 #     print("You are lucky that you are not wanted")
 
-rider1 = 2
-rider2 = 6
-if rider1 >= 18 or rider2 >= 18: 
-    print("Enter")
-else:
-    print("Do not enter")
+# rider1 = 25
+# rider2 = 6
+# if rider1 >= 18 or rider2 >= 18: 
+#     print("Enter")
+# else:
+#     print("Do not enter")

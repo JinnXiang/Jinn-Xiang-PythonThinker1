@@ -42,5 +42,5 @@
 # else:
 #     print("$20")
 
-
+password = ("")
 password = input("What is the password?")

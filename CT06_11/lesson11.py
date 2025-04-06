@@ -22,4 +22,5 @@
 # else:
 #     print("The number is not divisable by 3 and 7!")
 
-first_name = str()
+first_name = str(input("What is your first name?"))
+last_name = str(input("What is your first name?"))

@@ -56,3 +56,5 @@
 #     print("Won't you get thirsty?")
 
 game_status = "active"
+if game_status == "active" or not game_status == "paused":
+    print

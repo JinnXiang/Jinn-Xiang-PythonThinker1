@@ -61,6 +61,7 @@ enter_username = input("What is your username?")
 enter_pw = input("What is your password?")
 if enter_username == "John123" and enter_pw == "pw123":
     print("Access granted")
+elif username == enter_username or pw == enter_pw:
     
 
 # game_status = "active"

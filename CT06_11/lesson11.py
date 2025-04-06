@@ -57,7 +57,7 @@
 
 username = "John123"
 pw = "pw123"
-enter
+enter_username = input("")
 
 # game_status = "active"
 # if game_status == "active" or not game_status == "paused":

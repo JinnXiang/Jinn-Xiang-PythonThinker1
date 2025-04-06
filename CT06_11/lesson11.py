@@ -22,4 +22,4 @@
 # else:
 #     print("The number is not divisable by 3 and 7!")
 
-first_
+first_name = str()

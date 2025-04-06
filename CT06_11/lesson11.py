@@ -42,5 +42,7 @@
 # else:
 #     print("$20")
 
-password = ("Python123")
+password = "Python123"
 guess = input("What is the password?")
+if not guess == password:
+    pri

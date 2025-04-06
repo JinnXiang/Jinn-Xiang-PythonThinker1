@@ -55,7 +55,7 @@
 # if burger == "yes" and fries == "yes" and not drink == "yes":
 #     print("Won't you get thirsty?")
 
-game_status = "paused"
+game_status = "active"
 if game_status == "active" or not game_status == "paused":
     print("Game in progress")
 else:

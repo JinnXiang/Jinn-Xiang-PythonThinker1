@@ -43,4 +43,4 @@
 #     print("$20")
 
 password = ("Python123")
-password = input("What is the password?")
+guess = input("What is the password?")

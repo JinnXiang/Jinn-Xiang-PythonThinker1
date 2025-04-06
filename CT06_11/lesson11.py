@@ -58,7 +58,9 @@
 username = "John123"
 pw = "pw123"
 enter_username = input("What is your username?")
-enter_pw = input
+enter_pw = input("What is your password?")
+if enter_username == "John123" and enter_pw == "pw123":
+    print
 
 # game_status = "active"
 # if game_status == "active" or not game_status == "paused":

@@ -36,3 +36,4 @@
 # else:
 #     print("Do not enter")
 
+age = int(input())

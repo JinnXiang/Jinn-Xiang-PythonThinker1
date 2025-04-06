@@ -49,3 +49,8 @@
 # else:
 #     print("Good guess")
 
+burger = input("Do you want a burger?")
+fries = input("Do you want fries?")
+drink = input("Do you want a drink?")
+if burger == "yes" and fries == "yes" and not drink == "yes":
+    print("Won")

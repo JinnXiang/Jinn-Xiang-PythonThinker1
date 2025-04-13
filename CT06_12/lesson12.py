@@ -25,4 +25,4 @@ max = 30
 vis = 0
 
 while True:
-    userinput = input("")
+    userinput = input("Add visitor?")

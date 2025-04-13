@@ -34,4 +34,7 @@
 # print("Full")
 
 order = ""
-
+while True:
+    if order == "Nothing else":
+        break
+    e

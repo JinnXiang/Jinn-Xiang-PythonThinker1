@@ -31,4 +31,5 @@ while True:
         print(vis)
     if vis == max:
         break
-    print("Full")
+
+

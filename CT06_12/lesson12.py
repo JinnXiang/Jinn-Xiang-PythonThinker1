@@ -5,3 +5,5 @@
 #     print("Divisible by 3 and 5")
 # else:
 #     print("Not divisible by 3 and 5")
+
+vis=0

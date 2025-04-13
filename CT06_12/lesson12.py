@@ -26,7 +26,7 @@ vis = 0
 
 while True:
     userinput = input("Add visitor?")
-    if userinput == "l":
+    if userinput == "yes":
         vis += 1
         print(vis)
     if vis == max:

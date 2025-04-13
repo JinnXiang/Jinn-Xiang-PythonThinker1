@@ -21,7 +21,7 @@
 #     vis += 1
 #     print(vis)
 
-max = 30
+max = 100
 vis = 0
 
 while True:

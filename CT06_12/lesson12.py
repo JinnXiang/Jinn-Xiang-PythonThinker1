@@ -39,7 +39,7 @@ while True:
      if item == "nothing else":
          break
      else:
-         order = item + ", " + order
+         order = item + ", " + order + ","
 
 print(order)
         

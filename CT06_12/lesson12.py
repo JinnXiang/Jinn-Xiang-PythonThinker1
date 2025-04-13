@@ -21,12 +21,12 @@
 #     vis += 1
 #     print(vis)
 
-max = 5
+max = 30
 vis = 0
 
 while True:
     userinput = input("Add visitor?")
-    if userinput == "yes":
+    if userinput == "":
         vis += 1
         print(vis)
     if vis == max:

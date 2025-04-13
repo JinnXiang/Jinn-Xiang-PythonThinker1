@@ -28,3 +28,5 @@ while True:
     userinput = input("Add visitor?")
     if userinput == "yes":
         vis += 1
+        print(vis)
+        

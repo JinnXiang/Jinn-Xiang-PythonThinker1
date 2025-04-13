@@ -54,4 +54,3 @@ while num != 0:
         break
 else:
     print("Happy New Year!")
-

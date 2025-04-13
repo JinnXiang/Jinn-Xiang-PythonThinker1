@@ -42,8 +42,9 @@ while True:
      else:
         if Skipcomma:
             order += item
+            S
         else:
-         order = " ," + item + order
+            order = " ," + item + order
 
 print(order)
         

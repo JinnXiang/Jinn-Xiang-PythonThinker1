@@ -26,10 +26,11 @@ vis = 0
 
 while True:
     userinput = input("Add visitor?")
-    if userinput == "":
+    if userinput == "l":
         vis += 1
         print(vis)
     if vis == max:
         break
+    
 
 

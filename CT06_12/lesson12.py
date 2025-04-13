@@ -42,7 +42,7 @@ while True:
      else:
         if Skipcomma:
             order += item
-            S
+            Skipcomma = False
         else:
             order = " ," + item + order
 

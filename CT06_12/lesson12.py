@@ -21,16 +21,16 @@
 #     vis += 1
 #     print(vis)
 
-max = 100
-vis = 0
+# max = 30
+# vis = 0
 
-while True:
-    userinput = input("Add visitor?")
-    if userinput == "yes":
-        vis += 1
-        print(vis)
-    if vis == max:
-        break
-print("Full")
+# while True:
+#     userinput = input("Add visitor?")
+#     if userinput == "yes":
+#         vis += 1
+#         print(vis)
+#     if vis == max:
+#         break
+# print("Full")
 
 

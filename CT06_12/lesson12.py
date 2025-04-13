@@ -38,4 +38,4 @@ while True:
     if order == "Nothing else":
         break
     else:
-        input
+        input("What is your order?")

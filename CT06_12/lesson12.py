@@ -39,5 +39,5 @@ while True:
     if item == "nothing else":
         break
     else:
-        order = item + " "
+        order = item + ", " + order
         

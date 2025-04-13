@@ -22,3 +22,7 @@
 #     print(vis)
 
 max = 30
+vis = 0
+
+while True:
+    userinput

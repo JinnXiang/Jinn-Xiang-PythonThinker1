@@ -33,18 +33,46 @@
 #         break
 # print("Full")
 
-order = ""
-Skipcomma = True
-while True:
-     item = input("What is your order?")
-     if item == "nothing else":
-         break
-     else:
-        if Skipcomma:
-            order += item
-            Skipcomma = False
-        else:
-            order = order + ", " + item
+# order = ""
+# Skipcomma = True
+# while True:
+#      item = input("What is your order?")
+#      if item == "nothing else":
+#          break
+#      else:
+#         if Skipcomma:
+#             order += item
+#             Skipcomma = False
+#         else:
+#             order = order + ", " + item
 
-print(order)
+# print(order)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
         

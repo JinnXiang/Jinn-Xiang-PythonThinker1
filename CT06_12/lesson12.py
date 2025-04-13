@@ -51,4 +51,4 @@ while num != 0:
     print(num)
     num -= 1
 else:
-    print("Hapi New Year!")
+    print("Happy New Year!")

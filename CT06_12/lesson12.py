@@ -44,7 +44,4 @@
 #             order += item
 #             Skipcomma = False
 #         else:
-#             order = order + ", " + item
-
-# print(order)
-
+#             order = order + ", 

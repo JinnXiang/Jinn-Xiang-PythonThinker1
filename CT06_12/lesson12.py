@@ -30,4 +30,4 @@ while True:
         vis += 1
         print(vis)
     if vis == max:
-        brea
+        break

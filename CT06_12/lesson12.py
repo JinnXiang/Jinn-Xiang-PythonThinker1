@@ -35,7 +35,7 @@
 
 order = ""
 while True:
-    input("What is your order?")
+    item = input("What is your order?")
     if order == "nothing else":
         break
     else:

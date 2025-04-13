@@ -44,4 +44,4 @@
 #             order += item
 #             Skipcomma = False
 #         else:
-#             order = order + ", 
+#             order = order + ", " 

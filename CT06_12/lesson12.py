@@ -41,6 +41,7 @@ while True:
          break
      else:
         if Skipcomma:
+         order += item
          
          order = " ," + item + order
 

@@ -9,3 +9,4 @@
 vis=0
 while vis <50:
     vis += 1
+print(vis)

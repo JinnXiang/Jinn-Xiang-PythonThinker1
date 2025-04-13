@@ -34,7 +34,7 @@
 # print("Full")
 
 order = ""
-S
+Skipcomma = True
 while True:
      item = input("What is your order?")
      if item == "nothing else":

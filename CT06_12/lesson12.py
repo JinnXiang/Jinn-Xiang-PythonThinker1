@@ -39,5 +39,5 @@ while True:
     if item == "nothing else":
         break
     else:
-        input("What is your order?")
+        item 
         

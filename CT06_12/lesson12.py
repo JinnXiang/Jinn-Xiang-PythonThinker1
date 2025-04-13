@@ -40,7 +40,9 @@ while True:
      if item == "nothing else":
          break
      else:
-         order = item + order + " ,"
+        if Skipcomma:
+         
+         order = " ," + item + order
 
 print(order)
         

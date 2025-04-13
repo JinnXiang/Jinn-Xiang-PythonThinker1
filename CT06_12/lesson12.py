@@ -46,3 +46,5 @@
 #         else:
 #             order = order + ", " + item
 
+while count > 0:
+    print(cont)

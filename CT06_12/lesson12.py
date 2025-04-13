@@ -21,3 +21,4 @@
 #     vis += 1
 #     print(vis)
 
+max = 30

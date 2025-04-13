@@ -40,6 +40,5 @@ while True:
          break
      else:
          order = item + ", " + order
-
 print(order)
         

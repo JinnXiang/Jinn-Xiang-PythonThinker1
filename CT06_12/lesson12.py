@@ -46,5 +46,6 @@
 #         else:
 #             order = order + ", " + item
 
-while count > 0:
-    print(count)
+num = 10
+while num != 0:
+    

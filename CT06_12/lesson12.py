@@ -44,7 +44,6 @@ while True:
             order += item
             Skipcomma = False
         else:
-            order = order + ", " + item
-
+            order = order + ""
 print(order)
         

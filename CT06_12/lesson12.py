@@ -35,6 +35,7 @@
 
 order = ""
 while True:
+    # You need to ask the user for the input here
     if order == "Nothing else":
         break
     else:

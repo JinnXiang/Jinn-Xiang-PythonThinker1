@@ -11,3 +11,9 @@
 #     vis += 1
 #     print(vis)
 
+vis = 18
+while vis < 30:
+    vis += 1
+    print(vis)
+
+    

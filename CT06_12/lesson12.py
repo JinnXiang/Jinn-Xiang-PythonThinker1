@@ -29,4 +29,5 @@ while True:
     if userinput == "yes":
         vis += 1
         print(vis)
-        
+    if vis == max:
+        brea

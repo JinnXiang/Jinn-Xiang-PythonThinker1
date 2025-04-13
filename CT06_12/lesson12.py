@@ -33,12 +33,12 @@
 #         break
 # print("Full")
 
-# order = ""
-# while True:
-#     item = input("What is your order?")
-#     if item == "nothing else":
-#         break
-#     else:
-#         order = item + ", " + order
-# print(order)
+order = ""
+while True:
+     item = input("What is your order?")
+     if item == "nothing else":
+         break
+     else:
+         order = item + ", " + order
+print(order)
         

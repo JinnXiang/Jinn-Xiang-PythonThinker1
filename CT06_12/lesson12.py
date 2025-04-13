@@ -11,12 +11,13 @@
 #     vis += 1
 #     print(vis)
 
-vis = 18
-while vis < 30:
-    vis += 1
-    print(vis)
+# vis = 18
+# while vis < 30:
+#     vis += 1
+#     print(vis)
 
-vis = 4
-while vis < 25:
-    vis += 1
-    print(vis)
+# vis = 4
+# while vis < 25:
+#     vis += 1
+#     print(vis)
+

@@ -67,6 +67,3 @@
 #         print(item + ": Get the NotFresh brand")
 #     else:
 #         print(item)
-t = 1
-while True:
-    print("Jinn Yang is bad")

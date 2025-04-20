@@ -60,5 +60,5 @@
 
 for item in groceries:
     if item == "Apples":
-        print(item + ":")
+        print(item + ": I need 5 of these")
     print(item)

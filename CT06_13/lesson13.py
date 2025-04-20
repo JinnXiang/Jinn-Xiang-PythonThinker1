@@ -38,25 +38,25 @@
 #     if User_Option == 4:
 #         break
 
-# groceries = [
-#     "Apples",
-#     "Bread"
-#     "Carrots",
-#     "Dates",
-#     "Eggs",
-#     "Flour",
-#     "Grapes",
-#     "Honey",
-# ]
-# groceries[6] = "Herbs"
+groceries = [
+    "Apples",
+    "Bread"
+    "Carrots",
+    "Dates",
+    "Eggs",
+    "Flour",
+    "Grapes",
+    "Honey",
+]
+groceries[6] = "Herbs"
 
-# groceries.append("Ice")
+groceries.append("Ice")
 
-# groceries.insert(1, "Bananas")
+groceries.insert(1, "Bananas")
 
-# del(groceries[2])
+del(groceries[2])
 
-# print(groceries)
+print(groceries)
 
 for item in groceries:
     if item == "Apples":

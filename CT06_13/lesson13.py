@@ -69,4 +69,4 @@
 #         print(item)
 t = 1
 while True:
-    print("Yi Xuan is bad")
+    print("Jinn Yang is bad")

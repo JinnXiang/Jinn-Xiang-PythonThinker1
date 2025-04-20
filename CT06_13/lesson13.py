@@ -63,6 +63,7 @@ for item in groceries:
         print(item + ": I need 5 of these")
     elif item == "Carrots":
         print(item + ": I need 3 of these")
-    if item == "Grapes":
+    elif item == "Grapes":
         print(item + ": Get the NotFresh brand")
-    print(item)
+    else:
+        print(item)

@@ -59,4 +59,4 @@
 # print(groceries)
 
 for item in groceries:
-    print()
+    print(item)

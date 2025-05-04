@@ -86,9 +86,9 @@
 
 # 4. Remove uranus from this list.
 
-del(planets[6])
+# del(planets[6])
 
 # 5. Using a for loop, print all the planets 
 #    from this list one by one.
-for i in range (len(planets)):
-    print(str(i + 1) + ". " + planets[i])
+# for i in range (len(planets)):
+#     print(str(i + 1) + ". " + planets[i])

@@ -94,4 +94,4 @@
 #     print(str(i + 1) + ". " + planets[i])
 
 if ConditionA:
-    print
+    print("SomethingX")

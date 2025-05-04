@@ -67,3 +67,25 @@
 #         print(item + ": Get the NotFresh brand")
 #     else:
 #         print(item)
+
+# pizza_toppings = [
+#     "Mushrooms",
+#     "Pepperoni",
+#     "Pineapple",
+#     "Bacon",
+#     "Chicken",
+#     "Beef",
+#     "Sauce"
+# ]
+# user_toppings = []
+# print("Your available toppings: ")
+# for i in range (len(pizza_toppings)):
+#     print(str(i + 1) + ". " + pizza_toppings[i])
+# while True:
+#     choice = input("What toppings do you want? Give me the number: ")
+#     if choice == "end":
+#         break
+#     else:
+#         user_toppings.append(pizza_toppings[int(choice) - 1])
+# for item in user_toppings:
+#     print(item)

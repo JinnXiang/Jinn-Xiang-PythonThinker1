@@ -98,4 +98,4 @@ if ConditionA:
 elif ConditionB:
     print("SomethingY")
 else:
-    print("SomethingX")
+    print("SomethingZ")

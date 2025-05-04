@@ -95,7 +95,7 @@
 
 if ConditionA:
     print("SomethingX")
-if ConditionA:
+elif ConditionA:
     print("SomethingX")
-if ConditionA:
+else:
     print("SomethingX")

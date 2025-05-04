@@ -92,3 +92,5 @@
 #    from this list one by one.
 # for i in range (len(planets)):
 #     print(str(i + 1) + ". " + planets[i])
+
+if ConditionA

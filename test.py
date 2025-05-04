@@ -95,7 +95,7 @@
 
 if ConditionA:
     print("SomethingX")
-elif ConditionA:
-    print("SomethingX")
+elif ConditionB:
+    print("SomethingY")
 else:
     print("SomethingX")

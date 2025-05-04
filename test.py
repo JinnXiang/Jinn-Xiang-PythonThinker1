@@ -95,3 +95,7 @@
 
 if ConditionA:
     print("SomethingX")
+if ConditionA:
+    print("SomethingX")
+if ConditionA:
+    print("SomethingX")

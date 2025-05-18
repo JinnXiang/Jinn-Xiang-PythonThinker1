@@ -7,6 +7,8 @@ def setup_screen (screenWidth, screenHeight):
     screen.setup(width = screenWidth, height = screenHeight)
     return screen
 
+def create_blue_ball():
+    ball
 screenWidth = 300
 screenHeight = 500
 screen = setup_screen(screenWidth, screenHeight)

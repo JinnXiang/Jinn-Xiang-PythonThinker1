@@ -18,6 +18,9 @@ def move_ball(ball, dx, dy):
     ball.setx(ball.xcor() + dx)
     ball.sety(ball.ycor() + dy)
 
+def check_x(ball, screenWidth):
+    if ball.xcor() > (screenWidth / 2) or ball.xcor() < (-screenWidth / 2):
+        return 
 
 screenWidth = 300
 screenHeight = 500

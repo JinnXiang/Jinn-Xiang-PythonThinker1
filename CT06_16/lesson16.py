@@ -7,20 +7,6 @@ def setup_screen (screenWidth, screenHeight):
     screen.setup(width  =screenWidth, height = screenHeight)
     return screen
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 window = turtle.Screen()
 window.setup(width=700, height=700)
 t = turtle.Turtle()

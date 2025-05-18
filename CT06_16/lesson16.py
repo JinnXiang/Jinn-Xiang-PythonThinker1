@@ -11,3 +11,5 @@ t.penup()
 
 window.mainloop()
 
+for i in range(100):
+    t

@@ -9,7 +9,7 @@ def setup_screen (screenWidth, screenHeight):
 
 screenWidth = 300
 screenHeight = 500
-screen = setup_screen(300, 500)
+screen = setup_screen(screenWidth, screen)
 
 
 screen.mainloop()

@@ -15,6 +15,10 @@ t.fillcolor("black")
 t.pendown()
 
 
+
+
+
+
 for i in range(500):
     t.forward(250)
     t.left(300)

@@ -15,3 +15,5 @@ for i in range(500):
     t.forward(250)
     t.left(144)
     t.left(5)
+
+window

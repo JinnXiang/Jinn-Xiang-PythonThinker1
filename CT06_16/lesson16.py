@@ -32,19 +32,6 @@ screen = setup_screen(screenWidth, screenHeight)
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
 screen.mainloop()
 
 

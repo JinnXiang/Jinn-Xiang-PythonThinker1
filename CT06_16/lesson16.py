@@ -14,12 +14,9 @@ t.pendown()
 #     t.forward(250)
 #     t.left(144)
 #     t.left(5)
-
-
-
-def drawShape(length,num_sides):
-    for i in range(num_sides):
-        t.forward(length)
-        t.right(360/num_sides)
-drawShape(100,50)
-window.mainloop()
+# def drawShape(length,num_sides):
+#     for i in range(num_sides):
+#         t.forward(length)
+#         t.right(360/num_sides)
+# drawShape(100,50)
+# window.mainloop()

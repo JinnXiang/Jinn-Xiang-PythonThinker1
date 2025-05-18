@@ -110,7 +110,8 @@ def move_ball(ball, dx, dy):
 
 
 
-dx
+dx = 2
+dy = 2
 
 
 screenWidth = 300

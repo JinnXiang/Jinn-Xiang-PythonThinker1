@@ -8,7 +8,7 @@ def setup_screen (screenWidth, screenHeight):
     return screen
 
 def create_blue_ball():
-    ball = turtle.turtle()
+    ball = turtle.Turtle()
     ball.shape("circle")
     ball.color("blue")
     ball.penup()

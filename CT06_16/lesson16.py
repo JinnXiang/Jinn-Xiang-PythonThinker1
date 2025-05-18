@@ -9,4 +9,4 @@ t.shape("turtle")
 t.fillcolor("black")
 t.penup()
 
-window.m
+window.mainloop()

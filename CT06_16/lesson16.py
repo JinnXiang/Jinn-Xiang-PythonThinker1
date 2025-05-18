@@ -15,7 +15,7 @@ def create_blue_ball():
     return ball
 
 def move_ball(ball, dx, dy):
-    ball.setx(dx)
+    ball.setx(dx.xcor())
     
 
 

@@ -17,6 +17,8 @@ def create_blue_ball():
 def move_ball(ball, dx, dy):
     ball.setx(dx.xcor() + dx)
     ball.sety(dy.ycor() + dy)
+while True:
+    move
     
 
 

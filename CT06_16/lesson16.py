@@ -39,7 +39,7 @@ while True:
     if check_x(ball, screenWidth):
         dx *= -1
 
-screen.mainloop()
+    screen.mainloop()
 
 
 

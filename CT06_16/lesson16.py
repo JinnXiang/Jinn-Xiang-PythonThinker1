@@ -41,7 +41,7 @@ while True:
     if check_y(ball, screenHeight):
         dy *= -1
 
-    screen.mainloop()
+screen.mainloop()
 
 
 

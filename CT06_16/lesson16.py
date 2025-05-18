@@ -8,7 +8,7 @@ def setup_screen (screenWidth, screenHeight):
     return screen
 
 window = turtle.Screen()
-window.setup(width=700, height=700)
+window.setup(width=300, height=500)
 t = turtle.Turtle()
 t.shape("turtle")
 t.fillcolor("black")

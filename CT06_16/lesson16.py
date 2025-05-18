@@ -3,7 +3,7 @@
 import turtle
 
 def setup_screen (screenWidth, screenHeight):
-    screen
+    screen = turtle.screen()
 
 
 

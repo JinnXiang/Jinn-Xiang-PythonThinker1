@@ -17,7 +17,7 @@ def create_blue_ball():
 screenWidth = 300
 screenHeight = 500
 screen = setup_screen(screenWidth, screenHeight)
-ball = create_blue
+ball = create_blue_ball
 
 screen.mainloop()
 

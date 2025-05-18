@@ -18,7 +18,7 @@ def move_ball(ball, dx, dy):
     ball.setx(dx.xcor() + dx)
     ball.sety(dy.ycor() + dy)
 while True:
-    move
+    move_ball(ball, )
     
 
 

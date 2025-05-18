@@ -8,3 +8,5 @@ t = turtle.Turtle()
 t.shape("turtle")
 t.fillcolor("black")
 t.penup()
+
+window.m

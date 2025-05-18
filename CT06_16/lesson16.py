@@ -24,6 +24,11 @@ screenHeight = 500
 screen = setup_screen(screenWidth, screenHeight)
 ball = create_blue_ball()
 
+dx = 2
+dy = 2
+while True:
+    move_ball(ball, dx, dy)
+
 screen.mainloop()
 
 

@@ -22,6 +22,11 @@ def check_x(ball, screenWidth):
     if ball.xcor() > (screenWidth / 2) or ball.xcor() < (-screenWidth / 2):
         return True
 
+def check_x(ball, screenWidth):
+    if ball.xcor() > (screenWidth / 2) or ball.xcor() < (-screenWidth / 2):
+        return True
+
+
 screenWidth = 300
 screenHeight = 500
 screen = setup_screen(screenWidth, screenHeight)
